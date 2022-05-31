@@ -14,4 +14,5 @@ imediata ao repositório local para que os conteúdos sejam iguais. <br>
 **Mkdir** - para criar uma nova pasta. <br>
 **cd + nome da pasta** - para entrar nessa pasta. <br>
 **cd ..** - para voltar para a pasta anterior. <br>
-**ls** - para listar todas as pastas e arquivos que tem dentro daquela pasta que estamos no momento.
+**ls** - para listar todas as pastas e arquivos que tem dentro daquela pasta que estamos no momento. <br>
+**Git marge --no-ff** - para mesclar dois arquivos.
