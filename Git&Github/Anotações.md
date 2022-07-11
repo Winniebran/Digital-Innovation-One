@@ -16,3 +16,4 @@ imediata ao repositório local para que os conteúdos sejam iguais. <br>
 **cd ..** - para voltar para a pasta anterior. <br>
 **ls** - para listar todas as pastas e arquivos que tem dentro daquela pasta que estamos no momento. <br>
 **Git marge --no-ff** - para mesclar dois arquivos.
+**touch** - usado para criar novo arquivo. ex: touch index.html
